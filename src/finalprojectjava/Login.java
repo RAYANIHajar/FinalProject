@@ -15,7 +15,7 @@ import javafx.stage.Stage;
  *
  * @author HP
  */
-public class Userlogin extends Application {
+public class Login extends Application {
     
     @Override
     public void start(Stage stage) throws Exception {
